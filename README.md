@@ -1,8 +1,7 @@
 <div align="center">
 
 <img 
-src="<img width="644" height="530" alt="Excelsior-con-slogan-1024x888" src="https://github.com/user-attachments/assets/935191b6-5ff9-42b9-8597-efbd13eba075" />
-"
+src="<img width="644" height="530" alt="Excelsior-con-slogan-1024x888" src="https://github.com/user-attachments/assets/935191b6-5ff9-42b9-8597-efbd13eba075"
 width="260"/>
 
 <br><br>
