@@ -1,7 +1,8 @@
 <div align="center">
 
 <img 
-src="https://excelsior.com.ar/wp-content/uploads/2024/12/Excelsior-negro-con-slogan.png"
+src="<img width="644" height="530" alt="Excelsior-con-slogan-1024x888" src="https://github.com/user-attachments/assets/935191b6-5ff9-42b9-8597-efbd13eba075" />
+"
 width="260"/>
 
 <br><br>
