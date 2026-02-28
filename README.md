@@ -1,18 +1,23 @@
-<p align="center">
-  <div style="background-color:#000000; padding:40px; border-radius:12px;">
-    <img 
-      src="https://excelsior.com.ar/wp-content/uploads/2024/12/Excelsior-blanco-con-slogan-copia-768x782.png"
-      width="320"
-    />
-  </div>
-</p>
+<table width="100%">
+<tr>
+<td align="center" style="background-color:#000000; padding:40px; border-radius:12px;">
 
-<h2 align="center">EXCELSIOR MANAGEMENT</h2>
+<img 
+src="https://excelsior.com.ar/wp-content/uploads/2024/12/Excelsior-blanco-con-slogan-copia-768x782.png" 
+width="320"/>
 
-<p align="center">
+<br><br>
+
+<h2 style="color:white;">EXCELSIOR MANAGEMENT</h2>
+
+<p style="color:#cccccc;">
 La tecnología impulsa el cambio, pero sin seguridad, no podría sostenerse.
 </p>
 
-<p align="center">
-⚡ <b>Security is not a feature. It is the foundation.</b>
+<p style="color:#00ff9f;">
+⚡ Security is not a feature. It is the foundation.
 </p>
+
+</td>
+</tr>
+</table>
